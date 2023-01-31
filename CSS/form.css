@@ -1,0 +1,42 @@
+.form {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #588b8b17;
+    box-shadow: 2px 2px 8px #ccc;
+}
+
+
+.form__labelText {
+    width: 100%;
+    max-width: 85px;
+    display: inline-block;
+}
+
+.form__field {
+    border: 1px solid #ccc;
+    padding: 1px;
+}
+
+.form__button {
+    border: 2px solid #ccc;
+    padding: 8px;
+}
+
+.form__button:hover {
+    background-color: rgba(88, 88, 105, 0.247);
+    border: 2px solid rgba(88, 88, 105, 0.247);
+}
+
+.form__button:focus {
+    background-color: rgba(88, 88, 105, 0.247);
+    border: 2px solid rgba(88, 88, 105, 0.247);
+}
+
+.div {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #588b8b17;
+    box-shadow: 2px 2px 8px #ccc;
+    border: 2px solid rgba(88, 88, 105, 0.247);
+    padding: 20px;
+}
