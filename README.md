@@ -1,5 +1,10 @@
-# Mateusz Otorowski - moja strona
+# Welcome to my website
 
-## Demo
+Hi! I'm Mateusz, I'm learning the basics of programming.
 
-https://mynameisnotmateusz.github.io/currency-converter/
+# Link
+
+[Wymiana-Walut](https://mynameisnotmateusz.github.io/currency-converter/)
+
+## My photo
+![Mateusz](https://github.com/MyNameIsNotMateusz/currency-converter/blob/main/Images/MyPhoto.jpg?raw=true)
