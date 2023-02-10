@@ -1,8 +1,8 @@
 .form {
     max-width: 600px;
     margin: 20px auto;
-    background-color: #588b8b17;
-    box-shadow: 2px 2px 8px #ccc;
+    background-color: #588b8b;
+    box-shadow: 2px 2px 8px #cf3a3ac2;
 }
 
 
@@ -23,7 +23,7 @@
 }
 
 .form__button:hover {
-    background-color: rgba(88, 88, 105, 0.247);
+    background-color: rgb(223, 213, 213);
     border: 2px solid rgba(88, 88, 105, 0.247);
 }
 
@@ -35,7 +35,7 @@
 .div {
     max-width: 600px;
     margin: 20px auto;
-    background-color: #588b8b17;
+    background-color: #588b8b;
     box-shadow: 2px 2px 8px #ccc;
     border: 2px solid rgba(88, 88, 105, 0.247);
     padding: 20px;
