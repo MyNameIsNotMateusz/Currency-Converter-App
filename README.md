@@ -7,4 +7,4 @@ Hi! I'm Mateusz, I'm learning the basics of programming.
 [Wymiana-Walut](https://mynameisnotmateusz.github.io/currency-converter/)
 
 ## My photo
-![Mateusz]
+![Mateusz](https://github.com/MyNameIsNotMateusz/currency-converter/blob/main/Images/MyPhoto.jpg?raw=true)
