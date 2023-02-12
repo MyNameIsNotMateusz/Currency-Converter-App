@@ -1,19 +1,24 @@
-let mamElement = document.querySelector(".js-mam");
-let formElement = document.querySelector(".js-form");
-let chceElement = document.querySelector(".js-chce");
-let kursElement = document.querySelector(".js-kurs");
-let kurs2Element = document.querySelector(".js-kurs2");
+function init() {
+    var mamElement = document.querySelector(".js-mam");
+    var formElement = document.querySelector(".js-form");
+    var chceElement = document.querySelector(".js-chce");
+    var kursElement = document.querySelector(".js-kurs");
+    var kurs2Element = document.querySelector(".js-kurs2");
 
-formElement.addEventListener("submit", (event) => {
-    event.preventDefault();
+    const CountingClick = (event) => {
+        event.preventDefault();
 
-    let mam = mamElement.value;
-    let chce = chceElement.value;
-    
-    let wynik1 = mam * 0.21;
-    let wynik2 = chce * 4.71;
+        let mam = mamElement.value;
+        let chce = chceElement.value;
 
-    kursElement.innerText = wynik1;
-    kurs2Element.innerText = wynik2;
+        let wynik1 = mam * 0.21;
+        let wynik2 = chce * 4.71;
 
-});
+        kursElement.innerText = wynik1;
+        kurs2Element.innerText = wynik2;
+    }
+
+    formElement.addEventListener("submit", CountingClick);
+}
+
+init();
