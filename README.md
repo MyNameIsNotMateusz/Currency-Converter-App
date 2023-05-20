@@ -13,6 +13,12 @@
 
 - 🤝 How to use my app?
 
+1. Select whether you would like to exchange euro for PLN or PLN for EUR.
+2. If you choose the first option, enter the amount in euros in the second box.
+3. Then click "Check the rate"
+4. Below you will see the amount after converting from euro to PLN.
+5. If you want to exchange pln for eur, do everything the same, but enter the amount in the second window.
+
 ![Tutorial](https://github.com/MyNameIsNotMateusz/currency-converter/blob/main/Images/Currency-calculator.gif)
 
 - ⚡ Fun fact **I think I'm very hardworking**
