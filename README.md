@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisnotmateusz&label=Profile%20views&color=0e75b6&style=flat" alt="mynameisnotmateusz" /> </p>
 
-- 🔭 I’m currently working on [currency-converter](https://mynameisnotmateusz.github.io/currency-converter/)
+- 🔭 I’m currently working on [Currency-Conventer-App](https://mynameisnotmateusz.github.io/Currency-Converter-App/)
 
 - 🌱 I’m currently learning **Frontend Developer**
 
