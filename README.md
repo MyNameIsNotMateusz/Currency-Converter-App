@@ -13,7 +13,7 @@
 
 - 🤝 How to use my app?
 
-![Tutorial](https://github.com/MyNameIsNotMateusz/currency-conventer/blob/main/Images/Currency-calculator.gif)
+![Tutorial](https://github.com/MyNameIsNotMateusz/currency-converter/blob/main/Images/Currency-calculator.gif)
 
 - ⚡ Fun fact **I think I'm very hardworking**
 
