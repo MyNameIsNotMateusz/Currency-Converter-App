@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **mati1otorowski@gmail.com**
 
+- 🤝 How to use my app?
+
+![Tutorial](https://github.com/MyNameIsNotMateusz/currency-conventer/blob/main/Images/Currency-calculator.gif)
+
 - ⚡ Fun fact **I think I'm very hardworking**
 
 <h3 align="left">Connect with me:</h3>
